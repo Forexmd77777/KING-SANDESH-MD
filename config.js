@@ -27,7 +27,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/m5drmn.png",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/6yjl6e.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prefix for bot   
@@ -53,7 +53,7 @@ EMAIL: process.env.EMAIL || "mrsandeshbhashana@gmail.com",
 // add bot owner email
 FOOTER: process.env.FOOTER || "> *© Powered By FOREX-Md V2 💸*",
 // add bot footer for menu  
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/uhys6h.png",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/dteolq.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || " *FOREX-MD*⚡",
 // add alive msg here 
@@ -79,7 +79,7 @@ AUTO_NEWS: process.env.AUTO_NEWS || "true",
 // make true or false automatic news system 
 AUTO_NEWS_NUMBER: process.env.AUTO_NEWS_NUMBER || "94743340095",
 // enter your number with country code for automatic news system 
-THUMB_IMAGE: process.env.THUMB_IMAGE || "https://files.catbox.moe/m5drmn.png",
+THUMB_IMAGE: process.env.THUMB_IMAGE || "https://files.catbox.moe/dteolq.jpg",
 // thumb img for auto news system if has not photo
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
