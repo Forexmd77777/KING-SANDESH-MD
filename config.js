@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝙰𝚄𝚃𝙾 𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 <| 𝐊𝐈𝐍𝐆-𝐒𝐀𝐍𝐃𝐄𝐒𝐇-𝐌𝐃 𝐕❷🫧*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝙰𝚄𝚃𝙾 𝚂𝙴𝙴𝙽 𝚈𝙾𝚄𝚁 𝚂𝚃𝙰𝚃𝚄𝚂 𝙱𝚈 <| FOREX-𝐌𝐃 𝐕❷🫧*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/m5drmn.p
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prefix for bot   
-BOT_NAME: process.env.BOT_NAME || "<| 𝐊𝐈𝐍𝐆-𝐒𝐀𝐍𝐃𝐄𝐒𝐇-𝐌𝐃 𝐕❷🫧",
+BOT_NAME: process.env.BOT_NAME || "<| FOREX-MD 𝐕❷🫧",
 // add bot name here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KSMD",
 // type sticker pack name 
@@ -41,7 +41,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links without remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "94741259325",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94743340095",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐑 𝐒ᴀɴᴅᴇꜱ𝐇 𝐁ʜᴀꜱʜᴀɴ𝐀",
 // add bot owner name
@@ -51,11 +51,11 @@ GITHUB: process.env.GITHUB || "https://github.com/vijitharanawakage",
 // add bot owner github
 EMAIL: process.env.EMAIL || "mrsandeshbhashana@gmail.com",
 // add bot owner email
-FOOTER: process.env.FOOTER || "> *© Powered By King-Sandesh-Md V2 💸*",
+FOOTER: process.env.FOOTER || "> *© Powered By FOREX-Md V2 💸*",
 // add bot footer for menu  
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/uhys6h.png",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || " *KING-SANDESH-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || " *FOREX-MD*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -77,7 +77,7 @@ AUTO_BIO: process.env.AUTO_BIO || "true",
 // make true or false automatic about system 
 AUTO_NEWS: process.env.AUTO_NEWS || "true",
 // make true or false automatic news system 
-AUTO_NEWS_NUMBER: process.env.AUTO_NEWS_NUMBER || "94741259325",
+AUTO_NEWS_NUMBER: process.env.AUTO_NEWS_NUMBER || "94743340095",
 // enter your number with country code for automatic news system 
 THUMB_IMAGE: process.env.THUMB_IMAGE || "https://files.catbox.moe/m5drmn.png",
 // thumb img for auto news system if has not photo
@@ -91,7 +91,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
-DEV: process.env.DEV || "94741259325",
+DEV: process.env.DEV || "94743340095",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
