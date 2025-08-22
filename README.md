@@ -20,11 +20,11 @@
 <p align="center">
 <p align="center">
 <a href="https://github.com/vijitharanawakage/followers"><img title="Followers" src="https://img.shields.io/github/followers/vijitharanawakage?color=red&style=flat-square"></a>
-<a href="https://github.com/vijitharanawakage/KING-SANDESH-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vijitharanawakage/KING-SANDESH-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/vijitharanawakage/KING-SANDESH-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vijitharanawakage/KING-SANDESH-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/vijitharanawakage/KING-SANDESH-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vijitharanawakage/KING-SANDESH-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/vijitharanawakage/KING-SANDESH-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Mr%20Unknown%20Sandesh.-red?v=103"></a>
-<a href="https://github.com/vijitharanawakage/KING-SANDESH-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/vijitharanawakage/KING-SANDESH-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/vijitharanawakage/FOREX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vijitharanawakage/FOREX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/vijitharanawakage/FOREX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vijitharanawakage/FOREX-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/vijitharanawakage/FOREX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vijitharanawakage/FOREX-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/vijitharanawakage/FOREX-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Mr%20Unknown%20Sandesh.-red?v=103"></a>
+<a href="https://github.com/vijitharanawakage/FOREX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/vijitharanawakage/FOREX-MD?style=flat-square&color=green"></a>
 </p>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+90%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+80%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+70%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+60%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+50%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+40%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+30%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+20%25;%F0%9D%98%93%F0%9D%98%96%F0%9D%98%88%F0%9D%98%8B%F0%9D%98%90%F0%9D%98%95%F0%9D%98%8E%3A+%5B%E2%96%88%E2%96%88%E2%96%88%5D+10%25)](https://git.io/typing-svg)
@@ -35,7 +35,7 @@ ___________________
 ### Please Rate Us ✨ & [Follow For Me Notify My Updates 🤪](https://github.com/vijitharanawakage)
 <b>Bot Version -> 1 </b>
 # 
-🫧KING SANDESH MULTI DEVICE Bot is,
+🫧FOREX MD MULTI DEVICE Bot is,
 
     An Easy 3rd Party Programming Project to Use WhatsApp Help | මෙය තෙවන පාර්ශවීය වට්සැප් පහසුකම් ලබා දෙන ප්‍රෝග්‍රෑමින් ව්‍යාපෘතියකි.
 
@@ -117,7 +117,7 @@ ___________________
 
 <p>
 </details>
-THANKS FOR USING KING SANDESH MULTI DEVICE V2(BUTTON ADDED VERSION BUT IT IS NON WORKING ON BUSINESS WA)...❤️😌✋
+THANKS FOR USING FOREX MD MULTI DEVICE V2(BUTTON ADDED VERSION BUT IT IS NON WORKING ON BUSINESS WA)...❤️😌✋
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -174,14 +174,14 @@ This project is licensed under the MIT License. However, you must:
 - Not use for spam or malicious purposes
 
 
-## 👑 **`KING-SANDESH-MD BOT OWNER`** 👑
+## 👑 **`𝐈𝐇𝐀𝐑𝐀 𝐒𝐄𝐕𝐈𝐍𝐃𝐀-𝐌𝐃 BOT OWNER`** 👑
 
 
    <a href="https://github.com/vijitharanawakage/"><img src="https://i.ibb.co/0DC6PDM/20240816-123731.png" width=120 height=120></a>   
 
 ---
 
-|**[`MR.SANDESH BHASHANA`](https://github.com/vijitharanawakage)**|
+|**[`MR.FOREX`](https://github.com/vijitharanawakage)**|
 
 ---
 
